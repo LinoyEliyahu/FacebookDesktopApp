@@ -31,7 +31,7 @@ Before running the Facebook Desktop App, make sure you have the following prereq
 1. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/facebook-desktop-app.git
+   git clone https://github.com/LinoyEliyahu/facebook-desktop-app.git
    ```
 
 2. Navigate to the `facebookwinformsapp` folder:
